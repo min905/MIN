@@ -1,0 +1,26 @@
+{
+  "name": "min",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000I\u0000N\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/min905/MIN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/min905/MIN/issues"
+  },
+  "homepage": "https://github.com/min905/MIN#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.105.0",
+    "dotenv": "^17.4.2",
+    "puppeteer": "^25.1.0"
+  }
+}
